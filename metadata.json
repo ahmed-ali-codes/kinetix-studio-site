@@ -1,0 +1,6 @@
+{
+  "name": "KINETIX 3D Footwear",
+  "description": "Premium 3D animated sneaker brand experience with interactive product models, smooth scroll transitions, and red-white-black design.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
