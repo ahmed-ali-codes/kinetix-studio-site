@@ -1,5 +1,6 @@
 # Kinetix Studio
 
+![Kinetix Studio Hero](assets/images/hero.png)
 A premium, interactive 3D web experience for high-performance athletic footwear. Designed with modern web technologies to showcase the "KINETIX APEX.01" shoe series.
 
 ## Features
